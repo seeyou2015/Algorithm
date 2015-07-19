@@ -1,3 +1,4 @@
+//calculate the One digit on units' digit and tenths' digit and so on.
 class Solution {
 public:
     int countDigitOne(int n) {
