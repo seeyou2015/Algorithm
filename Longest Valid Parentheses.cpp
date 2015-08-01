@@ -85,7 +85,7 @@ public:
 
 
 
-//Solution 4:
+//Solution 4: Time: O(N) Space O(N)
 //Use a array(sign), mark all the matched parentheses position to 1. Then count the consecutive 1s.
 class Solution {
 public:
